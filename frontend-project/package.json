@@ -41,7 +41,7 @@
     "@crystallize/react-video": "1.6.6",
     "@stripe/react-stripe-js": "1.7.0",
     "@stripe/stripe-js": "1.8.0",
-    "immer": "9.0.6",
+    "immer": "9.0.12",
     "jsonwebtoken": "8.5.1",
     "lodash": "4.17.21",
     "next": "12.0.9",
