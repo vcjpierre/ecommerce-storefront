@@ -11,7 +11,7 @@
     "@crystallize/node-vipps": "^0.1.4",
     "@mollie/api-client": "^3.6.0",
     "@paypal/checkout-server-sdk": "^1.0.2",
-    "@sendgrid/mail": "^7.4.1",
+    "@sendgrid/mail": "^7.6.1",
     "apollo-server-micro": "2.25.3",
     "cookie": "^0.4.1",
     "cors": "^2.8.5",
