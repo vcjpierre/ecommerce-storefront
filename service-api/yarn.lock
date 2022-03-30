@@ -810,14 +810,14 @@ ajv@^8.0.1:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
-amazon-sp-api@^0.6.5:
-  version "0.6.6"
-  resolved "https://registry.yarnpkg.com/amazon-sp-api/-/amazon-sp-api-0.6.6.tgz#9b77ddf0f874140f2903e10752797d9f4ea89901"
-  integrity sha512-6RN1VvTp0bxjTAHc8K6IOXlOJzW8flwhYbCtETB1FFaRtcTRSAKy4LiinQZTornYlxARr9QbCVwvwQ9XC+mMQQ==
+amazon-sp-api@^0.7.1:
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/amazon-sp-api/-/amazon-sp-api-0.7.2.tgz#2d3b92ebdd6db33731f43c312d759c1dafa0c825"
+  integrity sha512-LDC4JdcwLnNBV+6ZEEjhl+zBxJrjYPse0MNgLyx6MivGBVilUnyccT6eCBv1UGE8BMr69WzUY2pwyDOELXmuBg==
   dependencies:
     crypto-js "^4.1.1"
     csvtojson "^2.0.10"
-    fast-xml-parser "^4.0.1"
+    fast-xml-parser "^4.0.3"
     iconv-lite "^0.6.3"
     qs "^6.10.3"
 
@@ -2217,10 +2217,10 @@ fast-levenshtein@^2.0.6:
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
   integrity sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc=
 
-fast-xml-parser@^4.0.1:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/fast-xml-parser/-/fast-xml-parser-4.0.2.tgz#23f5da4393d9f4142e26792c1e675ddbafe7029a"
-  integrity sha512-3GOSbMTZxxrPPQ+aURM7Wia10bi71HBbiG/3mOEEkRSAkRtg4m7UhMSnB2rzOhBeRHyJUWsllOfyNnjTT1b85w==
+fast-xml-parser@^4.0.3:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/fast-xml-parser/-/fast-xml-parser-4.0.7.tgz#570a0f3754f259a8e5e7a85e7c667401e15e4872"
+  integrity sha512-dMtibyus3kC7nbxj1CpVtysLzO13UOAZEFAb5vpQg3T4O6qvetmSePpXKFx5KPNCHKoGwjtgjfF5DOyn7s1ylQ==
   dependencies:
     strnum "^1.0.5"
 

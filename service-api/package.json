@@ -27,7 +27,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "stripe": "^8.202.0",
-    "amazon-sp-api": "^0.6.5"
+    "amazon-sp-api": "^0.7.1"
   },
   "devDependencies": {
     "eslint": "^7.18.0",
