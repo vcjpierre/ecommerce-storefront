@@ -12,7 +12,7 @@
     "@mollie/api-client": "^3.6.0",
     "@paypal/checkout-server-sdk": "^1.0.2",
     "@sendgrid/mail": "^7.6.1",
-    "apollo-server-micro": "2.25.3",
+    "apollo-server-micro": "2.25.4",
     "cookie": "^0.5.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
