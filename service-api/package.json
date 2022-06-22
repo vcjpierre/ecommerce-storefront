@@ -6,13 +6,13 @@
     "start": "next start -p 3001"
   },
   "dependencies": {
-    "@apollo/gateway": "^0.28.1",
+    "@apollo/gateway": "^0.29.0",
     "@crystallize/node-klarna": "^4.8.0",
     "@crystallize/node-vipps": "^0.1.4",
     "@mollie/api-client": "^3.6.0",
     "@paypal/checkout-server-sdk": "^1.0.2",
     "@sendgrid/mail": "^7.6.1",
-    "apollo-server-micro": "2.25.4",
+    "apollo-server-micro": "3.0.0",
     "cookie": "^0.5.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
