@@ -777,16 +777,16 @@ ajv@^8.0.1:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
-amazon-sp-api@^0.7.4:
-  version "0.7.5"
-  resolved "https://registry.yarnpkg.com/amazon-sp-api/-/amazon-sp-api-0.7.5.tgz#7612e8bfe4f43b8d304f762fb9f79f850dc6d907"
-  integrity sha512-vTHnhQOl1uIUzdMvwRltorVQrDC0i9N3y3/Gav1ZpjUa0H+KsgZM9veyGGnDzNbP1YsEwUTPWCNVj9U+bctxtw==
+amazon-sp-api@^0.7.8:
+  version "0.7.9"
+  resolved "https://registry.yarnpkg.com/amazon-sp-api/-/amazon-sp-api-0.7.9.tgz#e581e3ea74364a4e7a046dc44f746e28149a71f2"
+  integrity sha512-jbpJ7FHswNLWjuXtXmETefZPtWSora3UsFAdxuLeSUmGLklbSFE8XfnV4LK9fpM94pmLvlQxhjloRu6+FnO9HA==
   dependencies:
     crypto-js "^4.1.1"
     csvtojson "^2.0.10"
     fast-xml-parser "^4.0.7"
     iconv-lite "^0.6.3"
-    qs "^6.10.3"
+    qs "^6.11.0"
 
 ansi-align@^3.0.0:
   version "3.0.1"
@@ -4222,6 +4222,13 @@ qs@^6.10.3:
   version "6.10.3"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.10.3.tgz#d6cde1b2ffca87b5aa57889816c5f81535e22e8e"
   integrity sha512-wr7M2E0OFRfIfJZjKGieI8lBKb7fRCH4Fv5KNPEs7gJ8jadvotdsS08PzOKR7opXhZ/Xkjtt3WF9g38drmyRqQ==
+  dependencies:
+    side-channel "^1.0.4"
+
+qs@^6.11.0:
+  version "6.11.0"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.11.0.tgz#fd0d963446f7a65e1367e01abd85429453f0c37a"
+  integrity sha512-MvjoMCJwEarSbUYk5O+nmoSzSutSsTwF85zcHPQ9OrlFoZOYIjaqBAJIqIXjptyD5vThxGq52Xu/MaJzRkIk4Q==
   dependencies:
     side-channel "^1.0.4"
 
