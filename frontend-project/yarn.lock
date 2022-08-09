@@ -233,10 +233,10 @@
   dependencies:
     json-to-graphql-query "^2.0.0"
 
-"@crystallize/react-content-transformer@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@crystallize/react-content-transformer/-/react-content-transformer-2.0.0.tgz#c3f203ac600b81271c2111abbc5c552d56b50de5"
-  integrity sha512-gIefu9zn+2fQDDuDLZ3Q07F1OyIYifnysmRMLm2sInKerhwaxvuWMcQ14/81Xe27YQX2RuLUDI3zuvyizisizA==
+"@crystallize/react-content-transformer@2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@crystallize/react-content-transformer/-/react-content-transformer-2.0.3.tgz#1fe5f0c2a924531d210c30aabb4af4b5e3d563b2"
+  integrity sha512-4oyP+D7W22Yaaq55WKyrcvxhHJG2ayPkO+IYXgqz2GM0OGAFpTgoivFzCFBSmHx0PKeyLlSpsQLzjBgKHscmZQ==
 
 "@crystallize/react-image@7.3.1":
   version "7.3.1"
