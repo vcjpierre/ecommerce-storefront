@@ -42,7 +42,7 @@
     "@stripe/react-stripe-js": "1.10.0",
     "@stripe/stripe-js": "1.8.0",
     "immer": "9.0.15",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "lodash": "4.17.21",
     "next": "12.2.5",
     "next-i18next": "8.1.3",
