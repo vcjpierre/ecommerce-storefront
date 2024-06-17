@@ -22,7 +22,7 @@
     "invariant": "^2.2.4",
     "jsonwebtoken": "^9.0.0",
     "mjml": "^4.12.0",
-    "next": "^12.2.5",
+    "next": "^14.1.1",
     "node-fetch": "^2.6.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
