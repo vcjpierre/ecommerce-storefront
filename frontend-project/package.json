@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "license": "MIT",
   "description": "Crystallize headless ecommerce boilerplate using next.js",
-  "engines": {
-    "node": ">=12.10"
-  },
   "repository": {
     "url": "git@github.com:CrystallizeAPI/crystallize-nextjs-boilerplate.git",
     "type": "git"
